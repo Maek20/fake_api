@@ -1,0 +1,26 @@
+class Products {
+  int? id;
+  String? name;
+  String? brand;
+  double? price;
+  String? cpu;
+  String? ram;
+  String? storage;
+  String? img;
+  double? rating;
+  int? stock;
+  String? category;
+
+  Products(
+      {this.id,
+      this.name,
+      this.brand,
+      this.price,
+      this.cpu,
+      this.ram,
+      this.storage,
+      this.img,
+      this.rating,
+      this.stock,
+      this.category});
+}
