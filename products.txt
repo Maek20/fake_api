@@ -9,7 +9,7 @@ class Products {
   String? img;
   double? rating;
   int? stock;
-  String? category;
+  String? cate;
 
   Products(
       {this.id,
@@ -22,5 +22,5 @@ class Products {
       this.img,
       this.rating,
       this.stock,
-      this.category});
+      this.cate});
 }
