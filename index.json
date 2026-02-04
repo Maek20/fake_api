@@ -1,0 +1,309 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "name": "Burger Cheese",
+            "price": 0.99,
+            "rating": 4.1,
+            "img": "https://png.pngtree.com/png-clipart/20231020/original/pngtree-3d-illustration-cheese-burger-png-image_13381662.png",
+            "category": "Burger",
+            "description": "A classic cheesy burger with fresh ingredients and a soft bun."
+        },
+        {
+            "id": 2,
+            "name": "Burger Beef",
+            "price": 1.99,
+            "rating": 4.0,
+            "img": "https://png.pngtree.com/png-clipart/20230928/original/pngtree-tasty-beef-burger-png-image_13165623.png",
+            "category": "Burger",
+            "description": "Juicy beef burger with fresh lettuce, tomato, and special sauce."
+        },
+        {
+            "id": 3,
+            "name": "Burger Chicken",
+            "price": 1.50,
+            "rating": 4.5,
+            "img": "https://png.pngtree.com/png-vector/20240923/ourmid/pngtree-delicious-crispy-chicken-burger-png-image_13890825.png",
+            "category": "Burger",
+            "description": "Crispy chicken burger served with fresh vegetables and mayo."
+        },
+        {
+            "id": 4,
+            "name": "Burger Bacon",
+            "price": 1.99,
+            "rating": 3.99,
+            "img": "https://static.vecteezy.com/system/resources/previews/053/367/264/non_2x/delicious-bacon-cheeseburger-with-lettuce-and-tomato-transparent-background-free-png.png",
+            "category": "Burger",
+            "description": "Bacon cheeseburger with savory sauce and fresh lettuce."
+        },
+        {
+            "id": 5,
+            "name": "Fried Chicken",
+            "price": 2.49,
+            "rating": 4.6,
+            "img": "https://png.pngtree.com/png-clipart/20240306/original/pngtree-fried-chicken-png-png-image_14516402.png",
+            "category": "Chicken",
+            "description": "Golden fried chicken with a crunchy coating and tender inside."
+        },
+        {
+            "id": 6,
+            "name": "Grilled Chicken",
+            "price": 2.99,
+            "rating": 4.4,
+            "img": "https://png.pngtree.com/png-clipart/20250209/original/pngtree-grilled-whole-chicken-png-image_20397109.png",
+            "category": "Chicken",
+            "description": "Grilled chicken seasoned with herbs and spices for perfect flavor."
+        },
+        {
+            "id": 7,
+            "name": "Spicy Chicken",
+            "price": 2.79,
+            "rating": 4.3,
+            "img": "https://png.pngtree.com/png-clipart/20240603/original/pngtree-chicken-hot-wings-png-image_15240411.png",
+            "category": "Chicken",
+            "description": "Hot and spicy fried chicken for those who love bold flavors."
+        },
+        {
+            "id": 8,
+            "name": "Chicken Wings",
+            "price": 3.29,
+            "rating": 4.5,
+            "img": "https://static.vecteezy.com/system/resources/thumbnails/046/828/257/small/deep-fried-chicken-wings-isolated-on-transparent-background-png.png",
+            "category": "Chicken",
+            "description": "Tender chicken wings, perfect for snacking or sharing."
+        },
+        {
+            "id": 9,
+            "name": "Chicken Nuggets",
+            "price": 1.99,
+            "rating": 4.2,
+            "img": "https://png.pngtree.com/png-clipart/20231116/original/pngtree-an-image-of-chicken-nuggets-hot-and-crispy-png-image_13572431.png",
+            "category": "Chicken",
+            "description": "Crispy chicken nuggets, ideal for kids and quick bites."
+        },
+        {
+            "id": 10,
+            "name": "Fried Rice",
+            "price": 1.99,
+            "rating": 4.4,
+            "img": "https://png.pngtree.com/png-vector/20241225/ourmid/pngtree-colorful-vegetable-fried-rice-dish-png-image_14844982.png",
+            "category": "Rice",
+            "description": "Classic fried rice with vegetables and savory seasoning."
+        },
+        {
+            "id": 11,
+            "name": "Chicken Rice",
+            "price": 2.49,
+            "rating": 4.5,
+            "img": "https://static.vecteezy.com/system/resources/thumbnails/036/627/267/small_2x/ai-generated-delicious-chicken-and-rice-on-transparent-background-png.png",
+            "category": "Rice",
+            "description": "Tender chicken served with fragrant rice and savory sauce."
+        },
+        {
+            "id": 12,
+            "name": "Egg Fried Rice",
+            "price": 1.79,
+            "rating": 4.2,
+            "img": "https://png.pngtree.com/png-clipart/20231020/original/pngtree-egg-biryani-varieties-artfully-arranged-on-a-transparent-background-png-image_13388361.png",
+            "category": "Rice",
+            "description": "Fluffy fried rice mixed with fresh scrambled eggs."
+        },
+        {
+            "id": 13,
+            "name": "Seafood Rice",
+            "price": 2.99,
+            "rating": 4.6,
+            "img": "https://static.vecteezy.com/system/resources/previews/059/234/317/non_2x/delicious-seafood-paella-with-shrimp-mussels-rice-and-fresh-vegetables-served-in-bowl-png.png",
+            "category": "Rice",
+            "description": "Fried rice with a mix of fresh seafood and aromatic herbs."
+        },
+        {
+            "id": 14,
+            "name": "Beef Rice",
+            "price": 2.79,
+            "rating": 4.3,
+            "img": "https://static.vecteezy.com/system/resources/previews/059/044/507/non_2x/a-plate-of-beef-rice-and-vegetables-free-png.png",
+            "category": "Rice",
+            "description": "Tender beef slices served with steamed rice and vegetables."
+        },
+        {
+            "id": 15,
+            "name": "Pepperoni Pizza",
+            "price": 3.99,
+            "rating": 4.7,
+            "img": "https://png.pngtree.com/png-clipart/20240905/original/pngtree-delicious-pepperoni-pizza-png-image_15938758.png",
+            "category": "Pizza",
+            "description": "Classic pizza topped with pepperoni and melted cheese."
+        },
+        {
+            "id": 16,
+            "name": "Cheese Pizza",
+            "price": 3.49,
+            "rating": 4.5,
+            "img": "https://png.pngtree.com/png-vector/20250728/ourmid/pngtree-cheesy-pizza-slice-with-cheese-pull-png-image_16914868.webp",
+            "category": "Pizza",
+            "description": "Simple yet delicious cheese pizza with golden crust."
+        },
+        {
+            "id": 17,
+            "name": "BBQ Chicken Pizza",
+            "price": 4.49,
+            "rating": 4.6,
+            "img": "https://static.vecteezy.com/system/resources/previews/058/323/347/non_2x/delicious-bbq-chicken-pizza-isolated-on-transparent-background-png.png",
+            "category": "Pizza",
+            "description": "BBQ chicken pizza with tangy sauce and fresh veggies."
+        },
+        {
+            "id": 18,
+            "name": "Veggie Pizza",
+            "price": 3.29,
+            "rating": 4.3,
+            "img": "https://png.pngtree.com/png-clipart/20250221/original/pngtree-veggie-pizza-white-background-1-png-image_20491164.png",
+            "category": "Pizza",
+            "description": "Pizza loaded with fresh vegetables and melted cheese."
+        },
+        {
+            "id": 19,
+            "name": "Seafood Pizza",
+            "price": 4.99,
+            "rating": 4.8,
+            "img": "https://image.similarpng.com/file/similarpng/original-picture/2022/02/Seafood-pizza-isolated-on-transparent-background-PNG.png",
+            "category": "Pizza",
+            "description": "Delicious pizza topped with shrimp, squid, and cheese."
+        },
+        {
+            "id": 20,
+            "name": "Salmon Sushi",
+            "price": 4.99,
+            "rating": 4.8,
+            "img": "https://static.vecteezy.com/system/resources/thumbnails/035/675/762/small/ai-generated-salmon-sushi-free-png.png",
+            "category": "Sushi",
+            "description": "Fresh salmon sushi with perfectly seasoned rice."
+        },
+        {
+            "id": 21,
+            "name": "Tuna Sushi",
+            "price": 4.79,
+            "rating": 4.7,
+            "img": "https://png.pngtree.com/png-clipart/20231020/original/pngtree-tuna-sushi-japanese-dishes-asian-delicious-food-png-image_13379676.png",
+            "category": "Sushi",
+            "description": "Delicate tuna sushi with soft rice and fresh fish."
+        },
+        {
+            "id": 22,
+            "name": "Shrimp Sushi",
+            "price": 4.59,
+            "rating": 4.6,
+            "img": "https://static.vecteezy.com/system/resources/previews/051/145/320/non_2x/deliciously-crispy-shrimp-sushi-rolls-cut-in-half-with-a-golden-batter-coating-highlighting-fresh-ingredients-and-intricate-preparation-png.png",
+            "category": "Sushi",
+            "description": "Juicy shrimp sushi with seasoned rice for perfect bite."
+        },
+        {
+            "id": 23,
+            "name": "Egg Sushi",
+            "price": 3.99,
+            "rating": 4.4,
+            "img": "https://static.vecteezy.com/system/resources/previews/056/566/240/non_2x/tobiko-sushi-roll-with-cream-cheese-and-cucumber-on-transparent-background-png.png",
+            "category": "Sushi",
+            "description": "Soft egg sushi with sweet-savory flavor and fresh rice."
+        },
+        {
+            "id": 24,
+            "name": "Mixed Sushi",
+            "price": 5.49,
+            "rating": 4.9,
+            "img": "https://png.pngtree.com/png-clipart/20240822/original/pngtree-artistic-sushi-platter-illustration-png-image_15823798.png",
+            "category": "Sushi"
+        },
+        {
+            "id": 25,
+            "name": "Mocha Coffee",
+            "price": 1.29,
+            "rating": 4.5,
+            "img": "https://png.pngtree.com/png-clipart/20241121/original/pngtree-mocha-png-image_17280236.png",
+            "category": "Drink",
+            "description": "Rich mocha coffee with chocolate flavor and creamy texture."
+        },
+        {
+            "id": 26,
+            "name": "Latte",
+            "price": 1.19,
+            "rating": 4.4,
+            "img": "https://static.vecteezy.com/system/resources/thumbnails/069/294/288/small_2x/delicious-latte-coffee-with-art-isolated-on-transparent-background-png.png",
+            "category": "Drink",
+            "description": "Smooth latte coffee with steamed milk and delicate flavor."
+        },
+        {
+            "id": 27,
+            "name": "Cappuccino",
+            "price": 1.39,
+            "rating": 4.6,
+            "img": "https://static.vecteezy.com/system/resources/previews/048/723/551/non_2x/cappuccino-coffee-cup-with-latte-art-isolated-on-transparent-background-free-png.png",
+            "category": "Drink",
+            "description": "Creamy cappuccino with foam and perfect coffee aroma."
+        },
+        {
+            "id": 28,
+            "name": "Orange Juice",
+            "price": 0.99,
+            "rating": 4.3,
+            "img": "https://png.pngtree.com/png-vector/20241224/ourmid/pngtree-fresh-orange-fruit-juice-clipart-illustration-png-image_14791899.png",
+            "category": "Drink",
+            "description": "Freshly squeezed orange juice, sweet and refreshing."
+        },
+        {
+            "id": 29,
+            "name": "Iced Tea",
+            "price": 0.89,
+            "rating": 4.2,
+            "img": "https://png.pngtree.com/png-clipart/20241114/original/pngtree-a-glass-of-iced-tea-with-green-leaf-on-transparent-background-png-image_17030416.png",
+            "category": "Drink",
+            "description": "Cool iced tea with a refreshing taste and mild sweetness."
+        },
+        {
+            "id": 30,
+            "name": "Chocolate Cake",
+            "price": 2.99,
+            "rating": 4.8,
+            "img": "https://png.pngtree.com/png-clipart/20240327/original/pngtree-delicious-chocolate-cake-png-image_14699096.png",
+            "category": "Cake",
+            "description": "Rich and moist chocolate cake with creamy frosting."
+        },
+        {
+            "id": 31,
+            "name": "Strawberry Cake",
+            "price": 3.19,
+            "rating": 4.7,
+            "img": "https://static.vecteezy.com/system/resources/previews/051/989/702/non_2x/tasty-strawberry-cake-free-png.png",
+            "category": "Cake",
+            "description": "Fluffy cake layered with fresh strawberries and cream."
+        },
+        {
+            "id": 32,
+            "name": "Cheesecake",
+            "price": 3.49,
+            "rating": 4.9,
+            "img": "https://png.pngtree.com/png-clipart/20250103/original/pngtree-slice-of-strawberry-cheesecake-topped-with-fresh-berries-png-image_18847834.png",
+            "category": "Cake",
+            "description": "Creamy cheesecake with a buttery biscuit base."
+        },
+        {
+            "id": 33,
+            "name": "Vanilla Cake",
+            "price": 2.79,
+            "rating": 4.6,
+            "img": "https://png.pngtree.com/png-clipart/20241129/original/pngtree-vanilla-cake-png-image_17407914.png",
+            "category": "Cake",
+            "description": "Soft vanilla sponge cake with smooth cream frosting."
+        },
+        {
+            "id": 34,
+            "name": "Red Velvet Cake",
+            "price": 3.59,
+            "rating": 4.8,
+            "img": "https://image.similarpng.com/file/similarpng/original-picture/2022/02/Red-velvet-cake-isolated-on-transparent-background-PNG.png",
+            "category": "Cake",
+            "description": "Classic red velvet cake with cream cheese frosting."
+        }
+    ]
+}

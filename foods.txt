@@ -1,0 +1,19 @@
+class Foods {
+  int? id;
+  String? name;
+  double? price;
+  double? rating;
+  String? img;
+  String? category;
+  String? description;
+
+  Foods({
+      this.id,
+      this.name,
+      this.price,
+      this.img,
+      this.rating,
+      this.category,
+      this.description
+    });
+}
